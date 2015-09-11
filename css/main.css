@@ -1,0 +1,175 @@
+body {
+    font-family: sans-serif;
+    background-color: #f2f6f5;
+}
+
+h1,
+h2 {
+    font-size: 44px;
+    font-weight: 900;
+    color: #fff;
+}
+
+h1 {
+    display: inline-block;
+}
+
+h2 {
+    color: #01214c;
+    padding: 20px 0;
+}
+
+#col-1 a {
+    color: #01214c;
+    text-align: right;
+    display: block;
+    margin: 20px 0px;
+}
+
+#col-2 h2 {
+    font-weight: 900;
+    font-size: 32px;
+}
+
+
+p {
+    color: darkgrey;
+    font-size: 22px;
+    padding: 10px 0;
+    line-height: 30px;
+}
+a
+
+{
+ text-decoration: none;   
+}
+
+aside p {
+    font-size: 20px;
+    line-height: auto;
+    color: #01214c;
+    text-decoration: none;
+}
+
+aside a
+{
+
+    font-weight: 600;
+    font-size: 24px;
+}
+
+
+#header {
+    background-color: #01214c;
+    padding: 25px 50px;
+    
+}
+
+#header nav {
+    float: right;
+}
+
+#header nav a {
+    color: #f7f715;
+    text-align: right;
+    font-size: 20px;
+    display: inline-block;
+    width:100px;
+    text-decoration: none;
+}
+
+#col-1 {
+    padding: 20px 50px;
+    float: left;
+    width: 700px;
+}
+
+#col-2 {
+    float: left;
+    margin: 20px 20px;
+    width: 300px;
+}
+
+
+nav ul {
+    color: aqua;
+    text-align: left;
+    font-size: 20px;
+}
+
+nav ul a {
+    color: #01214c;
+    text-decoration: none;
+    line-height: 30px;
+}
+
+col-2 nav {
+    color: red;
+    text-align: left;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#col-1 img {
+    width: 100%;
+}
+
+#col-1 p::first-letter {
+
+    float: left;
+    font-size: 75px;
+    line-height: 50px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-right: 8px;
+   
+}
+
+#ad {
+    margin-top: 20px;
+}
+
+#signup {
+    background-color: #f7f715;
+    height: 100px;
+    clear: both;
+    text-align: center;
+    padding-top: 35px;
+}
+
+button {
+    background-color: #01214c;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 900;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: 0px;
+}
+
+
+
+small {
+    color: #fff;
+}
+
+footer h2 {
+    color: #f7f715
+}
+
+footer img {
+margin:30px;
+}
+
+footer {
+    padding:20px 0px;;
+    clear: both;
+    background-color: black;
+    height: 250px;
+    text-align: center;
+}
